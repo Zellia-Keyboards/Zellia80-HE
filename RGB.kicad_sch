@@ -7221,6 +7221,28 @@
 		)
 		(uuid "ff1e34cf-004d-46a1-8fe0-3588dd0efcd4")
 	)
+	(global_label "RGB In"
+		(shape input)
+		(at 393.7 22.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7fdfa26f-077d-4781-b1bd-b4bd45563791")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 403.2166 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 22.86 175.26 270)

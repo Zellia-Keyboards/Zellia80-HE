@@ -7210,6 +7210,16 @@
 	)
 	(wire
 		(pts
+			(xy 2.54 99.06) (xy 6.35 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0175e3b-c50a-4ebc-a5ac-f9bf7f0eb8e7")
+	)
+	(wire
+		(pts
 			(xy 149.86 190.5) (xy 137.16 190.5)
 		)
 		(stroke
@@ -7798,6 +7808,28 @@
 		(uuid "1a7c4543-9ac9-419d-a0d9-debaad3ed5c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 7.7023 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RGB In"
+		(shape input)
+		(at 11.43 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1d1ca2ce-a5c1-4d4f-a0cd-952c9bfa6610")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 20.9466 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13708,6 +13740,73 @@
 			(project "Heart HE 65"
 				(path "/4ead6829-f799-4396-8251-4a39c9105839"
 					(reference "U100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 8.89 99.06 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9479cc2-dfb5-4adc-9481-beea9bfe86e4")
+		(property "Reference" "R15"
+			(at 8.89 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100R"
+			(at 8.89 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 8.89 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 8.89 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 8.89 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "845299e9-5c34-4951-912c-5f438907a08c")
+		)
+		(pin "2"
+			(uuid "1b1ff5be-8662-4f7f-8f9f-f40931e4b8d4")
+		)
+		(instances
+			(project "Zellia80"
+				(path "/4ead6829-f799-4396-8251-4a39c9105839"
+					(reference "R15")
 					(unit 1)
 				)
 			)
