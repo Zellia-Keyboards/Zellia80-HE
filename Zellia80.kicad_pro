@@ -66,7 +66,7 @@
         "annular_width": "error",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -227,6 +227,10 @@
         {
           "diameter": 0.6,
           "drill": 0.3
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
         },
         {
           "diameter": 1.0,
@@ -465,7 +469,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Heart HE 65.kicad_pro",
+    "filename": "Zellia80.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -620,6 +624,10 @@
     [
       "c2aa7cdd-8304-4761-a815-122b263a5b09",
       "Sensor matrix"
+    ],
+    [
+      "a4179c8c-7fe7-42a9-a8e0-4de9827798c5",
+      "RGB Matrix"
     ]
   ],
   "text_variables": {}
