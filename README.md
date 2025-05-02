@@ -1,11 +1,8 @@
 # Zellia80-HE
+![ZelliaLogo](https://github.com/user-attachments/assets/61b43ad8-c3b3-43fb-a694-3265aedd6506)
+<sup>非常感谢<a href="https://www.linkedin.com/in/zilin-liang-8a77aa32b/" style="text-decoration:none">梁子琳</a>提供的免费图片</sup>
 
-(we HEAVILY do not reccomend to order the pcb from JLC as it is still in a phase of development state)
-
-![image](https://github.com/user-attachments/assets/2fef15d8-fe41-4167-946a-f528efe247a7)
-
-<!--![ZelliaLogo](https://github.com/user-attachments/assets/5c15a9d7-56cb-4a98-9c7a-6629f6e1f4cd)-->
-<!--<sup>非常感谢<a href="" style="text-decoration:none">梁子琳</a>提供的免费图片</sup> -->
+<sup>(we HEAVILY do not reccomend to order the pcb from JLC as it is still in a phase of development state)</sup>
 
 ## Overview
 
