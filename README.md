@@ -4,7 +4,7 @@
 
 ## Overview
 
-Zellia80 HE Keyboard project is a TKL Hall-Effect keyboard with a bottom row tsangan
+Zellia80 HE Keyboard project is a TKL Hall-Effect keyboard with a bottom row tsangan.
 
 This PCB design is compatible with the **Unified Daughterboard C5** (available from [KBDFans](https://kbdfans.com/products/tofu60-2-0-accessories?_pos=1&_sid=b8f5e035d&_ss=r&variant=41431070245003)).
 
