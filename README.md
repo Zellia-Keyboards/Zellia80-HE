@@ -46,9 +46,7 @@ Thanks to Zilin (梁子琳) Liang for the logo graphics.
 
 Huge thanks to [MaiTheSan](https://github.com/MaiTheSan) for reworking in the best possible way the keyboard.
 
-[ChillKB](https://github.com/chillKB) for adding the green LED.
-
-[Timass](https://github.com/Timass60) for routing the LDO / USB Back then in the 1st prototype.
-
-[zhangqili](https://github.com/zhangqili) for improving schematic.
+[ChillKB](https://github.com/chillKB).
+[Timass](https://github.com/Timass60).
+[zhangqili](https://github.com/zhangqili).
 
